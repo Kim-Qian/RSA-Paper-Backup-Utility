@@ -95,7 +95,7 @@ pip install pillow
 pip install pyzbar
 pip install reportlab
 pip install numpy
-
+```
 ⚠️ On Windows, pyzbar requires zbar installed.
 
 ---
